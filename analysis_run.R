@@ -51,7 +51,11 @@
             colnames(myData) <- c(feature$V2, "Activity", "Subject")
                   ##Check
                   ##colnames(myData)
+<<<<<<< HEAD
 
+=======
+            
+>>>>>>> origin/master
 
       #3.1 Assign activity names rather than numbers(1~6)
             i <-1 
