@@ -2,7 +2,7 @@
 Repo for course project.
 
 This repo is for course project (Coursera: Getting and Cleaning data)
-I've write R code to make a tidy data set which contains averages measuremant of many activities from 30 people.
+I've write R code to make a tidy data set which contains averages of many activities from 30 people.
   Original data from 
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
