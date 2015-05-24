@@ -21,11 +21,12 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-Variables of the final outcome (Description of R code is in README file)
+Variables of the final outcome 
 ===============================================================================
 Activity : Types of activities (such as walking, sitting, standing and etc.)
 Subject : Each person who participate into this experiment.
 Others : Extracted variables from the original data. 
+(Description of R code is in README file)
 
  [1] "Activity"                           "Subject"                            "tBodyAccMeanX"                     
  [4] "tBodyAccMeanY"                      "tBodyAccMeanZ"                      "tGravityAccMeanX"                  
