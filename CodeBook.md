@@ -1,9 +1,9 @@
 Codebook for the describing the variables.
 
 I urge you to read the original code book and readme file because it provide much detailed information and ideas.
-So, I want to extract some of them to give you brief understand on the final outcome("courseProject.txt"
+So, I want to extract some of them to give you brief understand on the final outcome("courseProject.txt")
 
-  *Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+  
 
 Data Set Information:
 ======================================
@@ -12,6 +12,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Check the README.txt file for further details about this dataset. 
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link:
 
+ *Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Attribute Information:
 ======================================================
@@ -21,6 +22,9 @@ For each record in the dataset it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
+ *Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 
 Variables of the final outcome 
 ===============================================================================
