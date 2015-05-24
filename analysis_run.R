@@ -51,7 +51,7 @@
             colnames(myData) <- c(feature$V2, "Activity", "Subject")
                   ##Check
                   ##colnames(myData)
-            colnames(myData) <- tolower(colnames(myData))
+
 
       #3.1 Assign activity names rather than numbers(1~6)
             i <-1 
