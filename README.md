@@ -7,8 +7,8 @@ I've write R code to make a tidy data set which contains averages of many activi
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 About anlaysis_run.R
-
-To work the code, please sure few things.
+======================================
+To work the code, please be sure few things.
   1. download data from the link above
   2. Set the "right" location where the data is in.
      (In my code, setwd() is in the first line.)
@@ -16,7 +16,7 @@ To work the code, please sure few things.
   4. Please find the file where you set at the seconde step.
 
 How R code works
-
+===========================================
 I tried my best to follow the guide from the team. 
 So I gurantee that you will never lose your way as you read the code.
 Here are steps.
