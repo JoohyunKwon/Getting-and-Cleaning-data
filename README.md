@@ -21,12 +21,12 @@ I tried my best to follow the guide from the team.
 So I gurantee that you will never lose your way as you read the code.
 Here are steps.
 #1. Merges the training and the test sets to create one data set
-      #1.1 Prepare required datasets such as "train","test" and "activities"
-            #Activity Lables
-            #train set
-            #test set 
-      #1.2 Then, merger train and test data
-      
+#1.1 Prepare required datasets such as "train","test" and "activities"
+#Activity Lables
+#train set
+#test set 
+#1.2 Then, merger train and test data
+
 #2. Extracts only the measurements on the mean and standard deviation for each measurement. 
       #2.1 Read features and transfer varabiles(related to mean or std) for further extraction
       #2.2 Find index of measurements which have "mean" or "std" on its name
