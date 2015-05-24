@@ -20,11 +20,11 @@ How R code works
 I tried my best to follow the guide from the team. 
 So I gurantee that you will never lose your way as you read the code.
 Here are steps.
-#1. Merges the training and the test sets to create one data set
-#1.1 Prepare required datasets such as "train","test" and "activities"
-#Activity Lables
-#train set
-#test set 
+1. Merges the training and the test sets to create one data set
+1.1 Prepare required datasets such as "train","test" and "activities"
+Activity Lables
+train set
+test set 
 #1.2 Then, merger train and test data
 
 #2. Extracts only the measurements on the mean and standard deviation for each measurement. 
